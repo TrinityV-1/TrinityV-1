@@ -1,8 +1,8 @@
-### Hey Everyone! I'm [Lyte / Econ#1337 (Discord)](https://github.com/Lee0907)
+### Hey Everyone! I'm [TrinityV-1](https://github.com/TrinityV-1)
 <hr>
 <p align="center"><h4 align="center"><samp> About Me </samp></h4></p>
 <div>
-  💌 <samp> Hello introduce my name is Lyte a.k.a Econ#1337 (Discord), I am a web developer & programmer. I am also a gamer who often plays games like Valorant, Mobile Legends, and other games. I currently work in a technology company as a Web Developer. I am self-taught programming, and I really like to learn new things. </samp>
+  💌 <samp> Hello introduce my name is Trinity - TrinityV#1337 (Discord), I am a web developer & programmer. I am also a gamer who often plays games like Valorant, LOL, and other games. I currently work in a technology company as a Web Developer. I am self-taught programming, and I really like to learn new things. </samp>
 
   <hr>
   
@@ -21,11 +21,11 @@
 
 ### Github Stats
  <p align="center">
-  <a href="https://github.com/LiteLyte"><span>
-    <img height="48%" src="https://github-readme-stats.vercel.app/api?username=litelyte&count_private=true&show_icons=true&theme=radical&&include_all_commits=true"/>
-    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=litelyte&theme=radical" />
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=litelyte&hide=html,css,javascript,scss&layout=compact&langs_count=8&theme=radical"/>
-    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=litelyte&theme=dracula" />
+  <a href="https://github.com/trinityv-1"><span>
+    <img height="48%" src="https://github-readme-stats.vercel.app/api?username=trinityv-1&count_private=true&show_icons=true&theme=radical&&include_all_commits=true"/>
+    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=trinityv-1&theme=radical" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=trinityv-1&hide=html,css,javascript,scss&layout=compact&langs_count=8&theme=radical"/>
+    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=trinityv-1&theme=dracula" />
     </span></a>
 </p>
 <hr>
